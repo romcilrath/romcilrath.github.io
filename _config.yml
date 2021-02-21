@@ -1,22 +1,3 @@
 theme: jekyll-theme-minimal
-title: [Robert McIlrath]
-description: [Blah blah blah blah]
-logo: ![](images/bio-photo.jpg)
-
-owner:
-  name: Ted Laderas
-  avatar: ![](images/bio-photo.jpg)
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
+title: Robert McIlrath
+description: Blah blah blah blah
