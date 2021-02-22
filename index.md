@@ -30,4 +30,4 @@ Animation, motion design, movies, videogames, etc.
 
 ## Contact
 
-Email me at romcilrath@gmail.com and I'll be sure to get back to you as soon as possible. Thank you!
+Email me at [romcilrath@gmail.com](mailto:romcilrath@gmail.com) and I'll be sure to get back to you as soon as possible. Thank you!
