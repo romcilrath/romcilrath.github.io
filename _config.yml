@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Robert McIlrath
-avatar: "/images/pic.png?raw=true"
-round-avatar: true
+logo: "/images/pic.png?raw=true"
+round-logo: true
 description: 
   <br><br>
   Blah blah blah blah. Description of me goes here. Please hire me :)
