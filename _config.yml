@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 title: Robert McIlrath
-logo: "/images/pic.png?raw=true"
+avatar: "/images/pic.png?raw=true"
+round-avatar: true
 description: 
-  Blah blah blah blah
+  <br><br>
+  Blah blah blah blah. Description of me goes here. Please hire me :)
   <br><br>
   <a href="https://www.linkedin.com/in/robert-mcilrath/">View My LinkedIn Profile</a>
