@@ -28,6 +28,6 @@ For more details see [project 2 link](https://www.google.com/).
 
 Animation, motion design, movies, videogames, etc.
 
-## Support or Contact
+## Contact
 
-romcilrath@gmail.com
+Email me at romcilrath@gmail.com and I'll be sure to get back to you as soon as possible. Thank you!
