@@ -9,6 +9,20 @@ This is where I welcome you. You are now welcomed, you're welcome. Words, words,
 Bachelor of Science | Major: Computer Science | Minor: Mathematics <br>
 Graduated December 2020
 
+## Skills
+
+### Languages
+
+Python, Java, C#, C, R
+
+### Technologies
+
+Git (command line/ desktop), Microsoft Office Suite, Visual Studio Code, Android SDK, Android Studio, Google Firebase, Amazon Web Services (AWS), Unity3D
+
+### Workflows
+
+AGILE, Waterfall
+
 ## Projects
 
 ### Markov Chain Movie Reviews 
