@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+### Welcome to my site!
 
-You can use the [editor on GitHub](https://github.com/romcilrath/romcilrath.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is where I welcome you. You are now welcomed, you're welcome.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+## University at Albany, State University of New York
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bachelor of Science | Major: Computer Science | Minor: Mathematics
 
-```markdown
-Syntax highlighted code block
+Graduated December 2020
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
-- Bulleted
-- List
+## Project 1
 
-1. Numbered
-2. List
+Project 1 description
 
-**Bold** and _Italic_ and `Code` text
+For more details see [project 1 link](https://www.google.com/).
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Project 2
 
-### Jekyll Themes
+Project 2 description
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/romcilrath/romcilrath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [project 2 link](https://www.google.com/).
+
+### Other Interests
+
+Animation, motion design, movies, videogames, jerking off, making shit resumes
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+romcilrath@gmail.com
