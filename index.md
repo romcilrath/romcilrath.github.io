@@ -2,12 +2,14 @@
 
 This is where I welcome you. You are now welcomed, you're welcome. Words, words, words. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
 ## Education
 
 ### University at Albany, State University of New York
 
 Bachelor of Science | Major: Computer Science | Minor: Mathematics <br>
 Graduated December 2020
+
 
 ## Skills
 
@@ -22,6 +24,7 @@ Git (command line/ desktop), Microsoft Office Suite, Visual Studio Code, Android
 ### Workflows
 
 AGILE, Waterfall
+
 
 ## Projects
 
@@ -38,9 +41,11 @@ My Capstone project. Worked alongside two classmates to create an Android versio
 
 For more details see [project 2 link](https://www.google.com/).
 
+
 ## Other Interests
 
 Animation, motion design, movies, videogames, etc.
+
 
 ## Contact
 
