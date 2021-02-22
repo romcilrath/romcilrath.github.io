@@ -12,22 +12,22 @@ Graduated December 2020
 
 ## Projects
 
-### Project 1
+### Markov Chain Movie Reviews 
 
-Project 1 description.
+A small scale personal project. Grabs from 50,000 unique IMDb reviews and trains a model that can spit out semi-sensible sentences given a seed (such as: “This movie was confusing in most spots, choppy in almost every way.” from the seed: “This movie was”). 
 
 For more details see [project 1 link](https://www.google.com/).
 
 
-### Project 2
+### Proccoli - Student Time Management Android App
 
-Project 2 description.
+My Capstone project. Worked alongside two classmates to create an Android version of an existing iOS App for student time management named Proccoli that our sponsor created already. We implemented his API calls to a development Firebase Firestore database in an MVC framework.
 
 For more details see [project 2 link](https://www.google.com/).
 
 ## Other Interests
 
-Animation, motion design, movies, videogames, jerking off, making shit resumes
+Animation, motion design, movies, videogames, etc.
 
 ## Support or Contact
 
