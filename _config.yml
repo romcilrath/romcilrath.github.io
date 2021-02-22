@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Robert McIlrath
 logo: "/images/pic.png?raw=true"
-description: Blah blah blah blah
+description: 
+  Blah blah blah blah
+  <br><br>
+  <a href="https://www.linkedin.com/in/robert-mcilrath/">View My LinkedIn Profile</a>
