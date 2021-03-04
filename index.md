@@ -14,7 +14,7 @@ Python, Java, C#, C, R
 
 ### Technologies
 
-Git (command line/ desktop), Microsoft Office Suite, Visual Studio Code, Android SDK, Android Studio, Google Firebase, Amazon Web Services (AWS), Unity3D
+Git (CLI/ desktop), Microsoft Office Suite, Android SDK, Android Studio, VSCode, Google Firebase, Amazon Web Services (AWS), Unity3D
 
 ### Workflows
 
@@ -25,21 +25,23 @@ AGILE, Waterfall
 
 ### Markov Chain Movie Reviews 
 
-A small scale personal project. Grabs from 50,000 unique IMDb reviews and trains a model that can spit out semi-sensible sentences given a seed (such as: “This movie was confusing in most spots, choppy in almost every way.” from the seed: “This movie was”). 
+A small scale personal project. Grabs from 50,000 unique IMDb reviews and trains a model that can spit out semi-sensible sentences given a seed. For example from the seed "This movie" we get:
 
-For more details see [project 1 link](https://www.google.com/).
+	1.  This movie was a bit much, but with the program.
+	2.  This movie was based on a table, and their reasons to keep it all out.
+	3.  This movie will help us to the overall feel of the late 60s early 70s, but then it becomes even more effective.
+
+For more details see [project 1 link](https://github.com/romcilrath/MarkovMovieReviews).
 
 
 ### Proccoli - Student Time Management Android App
 
-My Capstone project. Worked alongside two classmates to create an Android version of an existing iOS App for student time management named Proccoli that our sponsor created already. We implemented his API calls to a development Firebase Firestore database in an MVC framework.
-
-For more details see [project 2 link](https://www.google.com/).
+My senior Capstone project. Worked alongside two classmates to create an Android version of an existing iOS App for student time management named Proccoli. The iOS version was creted by our sponsor for National Science Foundation to study student time management. We implemented his API calls to a development Firebase Firestore database in an MVC framework.
 
 
 ## Other Interests
 
-Animation, motion design, movies, videogames, etc.
+In my spare time I like to make small animations or draw. I also enjoy watching movies and reading, especially over this past year. The best book I've read lately is *Dawn* by Octavia Butler and the best movie I've seen lately would have to be *Handmaiden (2016)*. When I have the chance I enjoy hiking and camping.
 
 
 ## Contact
