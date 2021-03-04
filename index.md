@@ -1,3 +1,4 @@
+<br><br>
 ## Education
 
 ### University at Albany, State University of New York
@@ -31,7 +32,7 @@ A small scale personal project. Grabs from 50,000 unique IMDb reviews and trains
 	2.  This movie was based on a table, and their reasons to keep it all out.
 	3.  This movie will help us to the overall feel of the late 60s early 70s, but then it becomes even more effective.
 
-For more details see [project 1 link](https://github.com/romcilrath/MarkovMovieReviews).
+For more details see the [Markov Movie Reviews Github page](https://github.com/romcilrath/MarkovMovieReviews).
 
 
 ### Proccoli - Student Time Management Android App
