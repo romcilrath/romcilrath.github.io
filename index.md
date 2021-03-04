@@ -1,4 +1,3 @@
-<br>
 ## Education
 
 ### University at Albany, State University of New York
