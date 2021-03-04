@@ -41,7 +41,7 @@ My senior Capstone project. Worked alongside two classmates to create an Android
 
 ## Other Interests
 
-In my spare time I like to make small animations or draw. I also enjoy watching movies and reading, especially over this past year. The best book I've read lately is *Dawn* by Octavia Butler and the best movie I've seen lately would have to be *Handmaiden (2016)*. When I have the chance I enjoy hiking and camping.
+In my spare time I like to make small animations or draw. I also enjoy watching movies and reading, especially over this past year. The best book I've read lately is *Dawn* by Octavia Butler and the best movie I've seen lately would have to be *Handmaiden (2016)*. When I have the opportunity, I enjoy hiking and camping.
 
 
 ## Contact
