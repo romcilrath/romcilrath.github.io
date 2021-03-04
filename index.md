@@ -36,7 +36,7 @@ For more details see the [Markov Movie Reviews Github page](https://github.com/r
 
 ### Proccoli - Student Time Management Android App
 
-My senior Capstone project. Worked alongside two classmates to create an Android version of an existing iOS App for student time management named Proccoli. The iOS version was creted by our sponsor for National Science Foundation to study student time management. We implemented his API calls to a development Firebase Firestore database in an MVC framework.
+My senior Capstone project. Worked alongside two classmates to create an Android version of an existing iOS App for student time management named Proccoli. The iOS version was created by our sponsor for National Science Foundation to study student time management. We implemented his API calls to a development Firebase Firestore database in an MVC framework.
 
 
 ## Other Interests
