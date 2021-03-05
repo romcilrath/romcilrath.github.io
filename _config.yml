@@ -5,9 +5,10 @@ titles_from_headings:
   enabled: false
 favicon: "/images/favicon.ico"
 logo: "/images/pic.png?raw=true"
+bold: Welcome!
 description: 
   Welcome!
-  <br>
+  <br><br>
   Hello, my name is Robert and I am a recent comp sci graduate. My interest is in software development, with a particular interest in machine learning and data science. I'm currently looking for work, so please feel free to reach out!
   <br><br>
   <a href="mailto:romcilrath@gmail.com">romcilrath@gmail.com</a>
