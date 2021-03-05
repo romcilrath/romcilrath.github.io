@@ -3,6 +3,7 @@ title: Robert McIlrath
 titles_from_headings:
   enabled: false
   strip_title: false
+  collections: false
 favicon: "/images/favicon.ico"
 logo: "/images/pic.png?raw=true"
 description: 
