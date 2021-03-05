@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
-title: Robert McIlrath
-subtitle: Hello World
-titles_from_headings:
-  enabled: true
 favicon: "/images/favicon.ico"
 logo: "/images/pic.png?raw=true"
 description: 
