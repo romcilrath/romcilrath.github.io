@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Robert McIlrath
-name: test
+subtitle: Hello World
 titles_from_headings:
   enabled: false
 favicon: "/images/favicon.ico"
