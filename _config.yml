@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Robert McIlrath
-name: null
+titles_from_headings:
+  enabled:     false
 favicon: "/images/favicon.ico"
 logo: "/images/pic.png?raw=true"
 round-logo: true
